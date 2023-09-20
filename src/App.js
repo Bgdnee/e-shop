@@ -11,7 +11,7 @@ const Shop = () => {
     <div>
       <h1>Shop</h1>
     </div>
-  );
+  ); 
 };
 const App = () => {
   return (
